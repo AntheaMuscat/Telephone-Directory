@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Person
+comment1.params=
+comment1.target=java.lang.String\ getIdCard()
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ getSurname()
+comment4.params=
+comment4.target=java.lang.String\ getAddress()
+comment5.params=
+comment5.target=java.lang.String\ getTelephone()
+comment6.params=
+comment6.target=java.lang.String\ getAddressAndTown()
+comment7.params=
+comment7.target=java.lang.String\ getTown()
+comment8.params=idCard\ name\ surname\ town\ address\ telephone
+comment8.target=Person(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ personDetails()
+numComments=10

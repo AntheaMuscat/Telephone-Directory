@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=TelephoneDirectory
+comment1.params=
+comment1.target=void\ inputPersonDetails()
+comment2.params=name
+comment2.target=java.lang.String\ searchByName(java.lang.String)
+comment3.params=town
+comment3.target=Person[]\ searchByTown(java.lang.String)
+comment4.params=
+comment4.target=void\ outputWholeDirectory()
+comment5.params=input
+comment5.target=boolean\ isCharacter(java.lang.String)
+comment6.params=word
+comment6.target=java.lang.String\ capitalize(java.lang.String)
+comment7.params=
+comment7.target=void\ populateWithPeople()
+comment8.params=person
+comment8.target=boolean\ checkForNull(Person)
+numComments=9
